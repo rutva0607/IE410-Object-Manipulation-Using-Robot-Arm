@@ -126,6 +126,8 @@ See [`report.pdf`](./report.pdf) for methodology, results, and discussion.
 ---
 
 ## 👥 Team
-
-
-*IE410 — Introduction to Robotics, Winter 2026*
+- Rutva Mehta - 202401116
+- Yash Ravat - 202401182 
+- Om Pandya - 202401136  
+- Harsh Asnani - 202401062  
+- Het Lathiya - 202401104
