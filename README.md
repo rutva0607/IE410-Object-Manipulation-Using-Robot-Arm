@@ -99,18 +99,6 @@ Two Braccio robotic arms cooperate to transfer a soft object (e.g., a crumpled p
 
 ---
 
-## 🎥 Demo Video
-
-> A 3-minute demonstration video of all three tasks is available [here](#).
-> *(No stock music or AI voiceover used.)*
-
----
-
-## 📄 Report
-
-See [`report.pdf`](./report.pdf) for methodology, results, and discussion.
-
----
 
 ## 📁 Drive Folder
 This Drive folder includes all the source code used in the demonstration of our project. 
